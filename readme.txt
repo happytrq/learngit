@@ -7,4 +7,4 @@ I love myself.
 this is test1.
 this is test2.
 I am stupid.
-Creaeting a new branch is quick.
+Creaeting a new branch is quick AND simple.
