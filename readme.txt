@@ -5,3 +5,5 @@ Git is free software idstributed under the GPL.
 I am what am.
 I love myself.
 this is test1.
+this is test2.
+I am stupid.
